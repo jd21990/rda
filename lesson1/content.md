@@ -63,10 +63,10 @@
 **Ray**: Oh ya. Well thanks for being wholly you. I’m already starting to feel sun-sational.
 
 
-##*Rabbi David Aaron on Self-Discovery*
+##**Rabbi David Aaron on Self-Discovery**
 <iframe width="640" height="390" src="https://www.youtube.com/embed/3qDcyEVvOwk?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
 
-##*Fake it until you awake it*
+##**Fake it until you awake it**
 <iframe width="640" height="390" src="https://www.youtube.com/embed/3y_99MFT9OY?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
 
 ###*Sources*
