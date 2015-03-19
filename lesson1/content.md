@@ -1,6 +1,6 @@
 #**Ray**
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/TDgttSM9TOg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/TDgttSM9TOg&controls=0" frameborder="0" allowfullscreen></iframe>
 
 #####*View Text*
 
