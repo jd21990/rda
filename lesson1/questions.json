@@ -24,6 +24,13 @@
 	"type":"mc",
 	"text":"4. According to Doc, rays of light are more wholly [completely] themselves when they are in service of the Sun. Why? \n True or False: Because we are simply being who we are. All the Sun really asks of us is to be ourselves.",
 	"answers": ["True", "False"],
-	"correct": "True"	
+	"correct": "True"
+},
+{
+	"id": 5,
+	"type":"mc",
+	"text":"5. True or False: Ray has to give up what he wants and do what the Sun wants. Service is oppression not self-expression.",
+	"answers": ["True", "False"],
+	"correct": "False"	
 }
 ]
