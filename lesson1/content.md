@@ -3,8 +3,7 @@
 <iframe width="640" height="390" src="https://www.youtube.com/embed/TDgttSM9TOg?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
 
 <div toggly> 
-
-	#####*View Text*
+	<pre>
 
  **Ray**: Doc I don’t know. I used to be a really radiant energetic guy. People were in awe of my brilliance; drawn to my warmth. I had a shining personality.  I’d just walk into a room and it would light up. I was cheerful, lighthearted and always saw the bright side of things. I never had a shadow in my life.
 
@@ -63,6 +62,8 @@
 **Doc**: No Ray, He's brilliant. [Doc points to the sun]
 
 **Ray**: Oh ya. Well thanks for being wholly you. I’m already starting to feel sun-sational.
+
+</pre>
 </div>
 
 ##**Rabbi David Aaron on Self-Discovery**
