@@ -1,3 +1,23 @@
+[{
+	"id": 1,
+	"type":"mc", 
+	"text":"What’s Ray’s problem? Why is he so unhappy?", 
+	"answers": ["Friends", "Beliefs", "True self", "Doctor"], 
+	"correct": "True self"  
+},
+{
+	"id": 2,
+	"type":"mc",
+	"text":"True or False: The Sun is controlling, overbearing and robs Ray of the freedom to be himself.",
+	"answers": ["True", "False"],
+	"correct": "False"
+},
+]
+
+/*
+
+
+
 #**Ray Quiz**
 
 *1)*	What’s Ray’s problem? Why is he so unhappy?
@@ -104,3 +124,4 @@ The Sun is the source of all our powers. In and of ourselves we are no-one but i
 *19*)	 Why does feeling great start with feeling grateful?
 
 Because when we take things for granted we forget our connection to the Sun and lose the joyous appreciation of the miraculous meaning of who we really are. 
+*/
