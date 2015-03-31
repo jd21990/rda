@@ -1,8 +1,7 @@
 [{
 	"id": 1,
 	"type":"mc", 
-	"text":"What’s Ray’s problem? Why is he so unhappy? 
-	Ray is unhappy because he lives in conflict with his \n . He feels disconnected from his Higher Self.", 
+	"text":"What’s Ray’s problem? Why is he so unhappy? Ray is unhappy because he lives in conflict with his \n . He feels disconnected from his Higher Self.", 
 	"answers": ["Friends", "Beliefs", "True self", "Doctor"], 
 	"correct": "True self"  
 },
