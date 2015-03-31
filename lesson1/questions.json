@@ -1,8 +1,7 @@
 [{
 	"id": 1,
 	"type":"mc", 
-	"text":"1. What’s Ray’s problem? Why is he so unhappy? 
-	\n Ray is unhappy because he lives in conflict with his _________\n . He feels disconnected from his Higher Self.", 
+	"text":"1. What’s Ray’s problem? Why is he so unhappy? \n Ray is unhappy because he lives in conflict with his _________\n . He feels disconnected from his Higher Self.", 
 	"answers": ["Friends", "Beliefs", "True self", "Doctor"], 
 	"correct": "True self"  
 },
@@ -23,8 +22,7 @@
 {
 	"id": 4,
 	"type":"mc",
-	"text":"4. According to Doc, rays of light are more wholly [completely] themselves when they are in service of the Sun. Why?
-	\n True or False: Because we are simply being who we are. All the Sun really asks of us is to be ourselves.",
+	"text":"4. According to Doc, rays of light are more wholly [completely] themselves when they are in service of the Sun. Why? \n True or False: Because we are simply being who we are. All the Sun really asks of us is to be ourselves.",
 	"answers": ["True", "False"],
 	"correct": "True"	
 }
