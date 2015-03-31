@@ -1,6 +1,6 @@
 #**Ray**
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/TDgttSM9TOg?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/TDgttSM9TOg?&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
 
 <div toggly> 
 	<pre>
@@ -66,11 +66,11 @@
 </pre>
 </div>
 
-##**Rabbi David Aaron on Self-Discovery**
-<iframe width="640" height="390" src="https://www.youtube.com/embed/3qDcyEVvOwk?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
+##**Self-Discovery**
+<iframe width="640" height="390" src="https://www.youtube.com/embed/3qDcyEVvOwk?&rel=0&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
 
 ##**Fake it until you awake it**
-<iframe width="640" height="390" src="https://www.youtube.com/embed/3y_99MFT9OY?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/3y_99MFT9OY?&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
 
 ###*Sources*
 #####Tanya: Shaar Hayichud VeHaEmuna ~ Chapter 3 & 4
