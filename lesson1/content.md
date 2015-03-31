@@ -89,7 +89,7 @@ But in the following, the illustration is apparently not completely identical wi
 It is written: “For a sun and a shield is Hava'ye Elokim.” The explanation of this verse (is as follows]: “Shield” is a covering for the sun, to protect the creatures so that they should be able to bear [its heat]. As our Sages, of blessed memory, have said, “In Time to Come, the Holy One, blessed be He, will take out the sun from its sheath, the wicked will be punished by it . ...” Now, just as the covering shields (i.e., conceals] the sun, so does the name Elokim shield (i.e., conceal] the name Hava'ye, blessed be He.
 The meaning of the name Hava'ye is “That which brings everything into existence ex nihilo.” The prefix י [added to the stem הוה], modifies the verb, indicating that the action is present and continuous - as Rashi comments on the verse, “In this manner does Job do יעשה all the days” - i.e., the life-force which flows at every instant into all things created, from “that which proceeds out of the mouth of “G d” and “His breath,” and brings them into existence ex nihilo at every moment. For the fact that they were created during the Six Days of Creation is not sufficient for their continued existence, as explained above.
  … life-force conceals itself in the body of the created being and [it appears] as though the body of the created being has independent existence and is not [merely] a spreading forth of the life-force and spirituality— as the diffusion of the radiation and light from the sun— but an independently existing entity. Although, in reality, it has no independent existence, and is only like the diffusion of the light from the sun…
-.</p>
+</p>
 
 </body>
 </html>

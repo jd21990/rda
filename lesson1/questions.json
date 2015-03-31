@@ -11,5 +11,20 @@
 	"text":"True or False: The Sun is controlling, overbearing and robs Ray of the freedom to be himself.",
 	"answers": ["True", "False"],
 	"correct": "False"
+},
+{
+	"id": 3,
+	"type":"mc",
+	"text":"True or False: We are all rays of the Sun. He is the Soul of our soul. We exist as a part of Him; not apart from Him.",
+	"answers": ["True", "False"],
+	"correct": "True"
+},
+{
+	"id": 4,
+	"type":"mc",
+	"text":"
+	According to Doc, rays of light are more wholly [completely] themselves when they are in service of the Sun. Why? \n True or False: Because we are simply being who we are. All the Sun really asks of us is to be ourselves.",
+	"answers": ["True", "False"],
+	"correct": "True"	
 }
 ]
