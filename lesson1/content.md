@@ -5,7 +5,7 @@
 <div toggly> 
 	<pre>
 
- **Ray**: Doc I don’t know. I used to be a really radiant energetic guy. People were in awe of my brilliance; drawn to my warmth. I had a shining personality.  I’d just walk into a room and it would light up. I was cheerful, lighthearted and always saw the bright side of things. I never had a shadow in my life.
+**Ray**: Doc I don’t know. I used to be a really radiant energetic guy. People were in awe of my brilliance; drawn to my warmth. I had a shining personality.  I’d just walk into a room and it would light up. I was cheerful, lighthearted and always saw the bright side of things. I never had a shadow in my life.
 
 **Doc**: So what changed?
 
