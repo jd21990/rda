@@ -3,67 +3,65 @@
 <iframe width="640" height="390" src="https://www.youtube.com/embed/TDgttSM9TOg?&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
 
 <div toggly> 
-	<pre>
 
-**Ray**: Doc I don’t know. I used to be a really radiant energetic guy. People were in awe of my brilliance; drawn to my warmth. I had a shining personality.  I’d just walk into a room and it would light up. I was cheerful, lighthearted and always saw the bright side of things. I never had a shadow in my life.
+Ray: Doc I don’t know. I used to be a really radiant energetic guy. People were in awe of my brilliance; drawn to my warmth. I had a shining personality.  I’d just walk into a room and it would light up. I was cheerful, lighthearted and always saw the bright side of things. I never had a shadow in my life.
 
-**Doc**: So what changed?
+Doc: So what changed?
 
-**Ray**: I don’t know... my life’s just gone dark. I’m just so heavy now. My friends tell me, Ray lighten up. But I can’t. I just want to burst out and shine but feel so disconnected. Is there any hope for a new dawn in my life?
+Ray: I don’t know... my life’s just gone dark. I’m just so heavy now. My friends tell me, Ray lighten up. But I can’t. I just want to burst out and shine but feel so disconnected. Is there any hope for a new dawn in my life?
 
-**Doc**: Ray, do you believe in the sun?
+Doc: Ray, do you believe in the sun?
 
-**Ray**: Oh no, Please, Doc, don't start up with ray-ligion. I gave up believing in the sun long time ago. For years, as a kid, I went to Sunday school and hated it. My parents forced me to go to sunagogue. And not a few times, Doc, I was beat up by Anti-Sunites.
+Ray: Oh no, Please, Doc, don't start up with ray-ligion. I gave up believing in the sun long time ago. For years, as a kid, I went to Sunday school and hated it. My parents forced me to go to sunagogue. And not a few times, Doc, I was beat up by Anti-Sunites.
 
-**Doc**: I understand
+Doc: I understand
 
-**Ray**: My parents told me that we’re all children of the sun- that we’re the light of His life. And that the secret to happiness was to serve Him. Well no thank you. I’m no slave.
+Ray: My parents told me that we’re all children of the sun- that we’re the light of His life. And that the secret to happiness was to serve Him. Well no thank you. I’m no slave.
 
-**Doc**: Ray, the Sun is not a tyrant imposing his will on us. He’s the Source of our lives, the Soul of our souls; He’s our shared Greater Self. We cannot but want to serve the Sun because we are rays of His light; through us He becomes present on earth. 
+Doc: Ray, the Sun is not a tyrant imposing his will on us. He’s the Source of our lives, the Soul of our souls; He’s our shared Greater Self. We cannot but want to serve the Sun because we are rays of His light; through us He becomes present on earth. 
 
-**Ray**: Doc, You're freaking me out. 
+Ray: Doc, You're freaking me out. 
 
-**Doc**: Ray, the Sun loves us with the very love he loves himself because we are a part of Him.
+Doc: Ray, the Sun loves us with the very love he loves himself because we are a part of Him.
 
-**Ray**: Doc, I'm not the ray-ligious kind of guy. Not the holy type.
+Ray: Doc, I'm not the ray-ligious kind of guy. Not the holy type.
 
-**Doc**: I'm talking about you, Ray, not religion. To be holy means to be completely and Wholly     w- h-o-l--l-y you.
+Doc: I'm talking about you, Ray, not religion. To be holy means to be completely and Wholly     w- h-o-l--l-y you.
 
-**Ray**: Doc, I don't feel it. Maybe I'm just not connected to the sun. Maybe I'm a sinner. 
+Ray: Doc, I don't feel it. Maybe I'm just not connected to the sun. Maybe I'm a sinner. 
 
-**Doc**: Ray you’re always connected. No act can change that fact. You're forever a part of the Sun. It’s only your beliefs and lifestyle that set you a part from Him in your mind.
+Doc: Ray you’re always connected. No act can change that fact. You're forever a part of the Sun. It’s only your beliefs and lifestyle that set you a part from Him in your mind.
 
-**Ray**: So what do I have to do?
+Ray: So what do I have to do?
 
-**Doc**: Ray act in ways that portray and not betray you.
+Doc: Ray act in ways that portray and not betray you.
 
-**Ray**: So it’s fake it till you make it. Doc, I can't pretend to be someone I'm not.
+Ray: So it’s fake it till you make it. Doc, I can't pretend to be someone I'm not.
 
-**Doc**: No, Ray. It’s fake it till you awake it. Deep within we know the truth. The path to wellness is to make the unconscious conscious. 
+Doc: No, Ray. It’s fake it till you awake it. Deep within we know the truth. The path to wellness is to make the unconscious conscious. 
 
-**Ray**: Huh? You lost me Doc.
+Ray: Huh? You lost me Doc.
 
-**Doc**: Ray the feeling of disconnect depresses you because deep inside, you know it’s not true. Ray we’re rays of the sun. We’re connected this very moment.
+Doc: Ray the feeling of disconnect depresses you because deep inside, you know it’s not true. Ray we’re rays of the sun. We’re connected this very moment.
 
-**Ray**: So then why do I feel so bad if the connection can never be broken?
+Ray: So then why do I feel so bad if the connection can never be broken?
 
 **Doc**: Your connection can never be broken but it can be denied. The conflict between who you are and what you believe about yourself is causing you all this stress and sadness.
 
 **Ray**: So what do I have to do to my let light shine again?
 
-**Doc**: Ray, That's precisely your problem. Listen to what you’re saying. You think it's your light. It's not your light it’s His. All the powers within us are not from us. And they're not just His gifts to us they're His presence within us. 
+Doc: Ray, That's precisely your problem. Listen to what you’re saying. You think it's your light. It's not your light it’s His. All the powers within us are not from us. And they're not just His gifts to us they're His presence within us. 
 
-**Ray**: You mean, feeling great starts with feeling grateful. 
+Ray: You mean, feeling great starts with feeling grateful. 
 
-**Doc**: Right on.
+Doc: Right on.
 
-**Ray**: Doc, you're brilliant.  
+Ray: Doc, you're brilliant.  
 
-**Doc**: No Ray, He's brilliant. [Doc points to the sun]
+Doc: No Ray, He's brilliant. [Doc points to the sun]
 
-**Ray**: Oh ya. Well thanks for being wholly you. I’m already starting to feel sun-sational.
+Ray: Oh ya. Well thanks for being wholly you. I’m already starting to feel sun-sational.
 
-</pre>
 </div>
 
 ##**Self-Discovery**
