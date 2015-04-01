@@ -152,7 +152,7 @@ Now, most of us would immediately answer, “If God could become perfect, that w
 <p>Kabbalah says the answer is yes and no, because God is beyond the either/or. And therefore when we pose the question “Can the perfect become perfect?” the answer is yes and no.</p>
 	<p>In other words, when we describe the absolute perfection of God, we must describe it in a paradoxical way. Absolute perfection has the possibility for two types of perfection, which can exist simultaneously—being perfect and becoming perfect. In other words, absolute perfection includes a possibility for both a static perfection that never changes and a dynamic perfection, which is ever changing, evolving, and growing from “imperfection” to “more perfection.” </p>
 
- <p style="text-indent: 5em;"><i>ABSOLUTE PERFECTION</i></p>
+ &nbsp;&nbsp;<p style="text-indent: 5em;"><i>ABSOLUTE PERFECTION</i></p>
 
  <p style="text-indent: 5em;"><i>being perfect-------becoming perfect</i></p>
  <p style="text-indent: 5em;"><i>static perfection-------dynamic perfection</i></p>
