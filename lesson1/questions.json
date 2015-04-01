@@ -5,13 +5,13 @@
 	"answers": ["Friends", "Beliefs", "True self", "Doctor"], 
 	"correct": "True self" 
 },
-{<p>
+{
 	"id": 2,
 	"type":"mc",
 	"text":"2. True or False: The Sun is controlling, overbearing and robs Ray of the freedom to be himself.",
 	"answers": ["True", "False"],
 	"correct": "False" 
-</p>},
+},
 {
 	"id": 3,
 	"type":"mc",
