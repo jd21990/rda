@@ -31,6 +31,14 @@
 	"type":"mc",
 	"text":"5. True or False: Ray has to give up what he wants and do what the Sun wants. Service is oppression not self-expression.",
 	"answers": ["True", "False"],
-	"correct": "False"	
+	"correct": "False"
+},
+{
+	"id": 6,
+	"type":"mc",
+	"text":"6. According to Doc how does the Sun become present on earth? The brilliance, warmth and vitality of the Sun is channeled into the world through...",
+	"answers": ["Worship", "Us; His rays", "Nature", "The Sun"],
+	"correct": "Us; His rays"	
+
 }
 ]
