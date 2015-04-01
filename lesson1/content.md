@@ -2,6 +2,7 @@
 
 <iframe width="640" height="390" src="https://www.youtube.com/embed/TDgttSM9TOg?&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
 
+####*Ray Script*
 <div toggly> 
 
 <!DOCTYPE html>
@@ -77,7 +78,8 @@
 ##**Fake it until you awake it**
 <iframe width="640" height="390" src="https://www.youtube.com/embed/3y_99MFT9OY?&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
 
-##**Secret Life Of God by Rabbi David Aaron Chapter 1
+##Secret Life Of God by Rabbi David Aaron 
+###Chapter 1
 <div toggly> 
 
 <!DOCTYPE html>
@@ -151,11 +153,12 @@ Now, most of us would immediately answer, “If God could become perfect, that w
 <p>You might say, “It must be either yes or no.” However, that would be demanding of God (who is the Ultimate Reality and the Source of all logic) to fit into the rigid confines of human logic. Who says the Ultimate Reality functions according to human logic? Who says that the logical human mind is constructed in a way that it can completely describe the Ultimate Reality?</p>
 <p>Kabbalah says the answer is yes and no, because God is beyond the either/or. And therefore when we pose the question “Can the perfect become perfect?” the answer is yes and no.</p>
 	<p>In other words, when we describe the absolute perfection of God, we must describe it in a paradoxical way. Absolute perfection has the possibility for two types of perfection, which can exist simultaneously—being perfect and becoming perfect. In other words, absolute perfection includes a possibility for both a static perfection that never changes and a dynamic perfection, which is ever changing, evolving, and growing from “imperfection” to “more perfection.” </p>
-<p>ABSOLUTE PERFECTION</p>
 
-<p>being perfect          becoming perfect
-             static perfection     dynamic perfection
-             never-changing      ever-changing</p>
+                   <p><b>ABSOLUTE PERFECTION</b></p>
+
+    <p><i>being perfect</i></p>          <p><i>becoming perfect</i></p>
+   <p><i>static perfection</i></p>     <p><i>dynamic perfection</i></p>
+      <p><i>never-changing</i></p>      <p><i>ever-changing</i></p>
 
 <p>However, remember that this is a description relative to our limited viewpoint; from God’s perspective, there is simply oneness. It is only because of the limitation of our logical minds that we describe the one God as having two types of perfection—a static perfection and a dynamic perfection; being perfect and becoming perfect.</p>
 <p>Therefore, when we describe God, the Ultimate Reality, the Absolutely Perfect One, we would have to say that included within the full definition of God’s absolute perfection is the possibility of becoming perfect (from imperfection toward greater and greater perfection) while being perfect.
