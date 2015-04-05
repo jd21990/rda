@@ -1,3 +1,9 @@
+##**Self-Discovery**
+<iframe width="640" height="390" src="https://www.youtube.com/embed/3qDcyEVvOwk?&rel=0&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
+
+##**Fake it until you awake it**
+<iframe width="640" height="390" src="https://www.youtube.com/embed/3y_99MFT9OY?&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
+
 #**Ray**
 
 <iframe width="640" height="390" src="https://www.youtube.com/embed/TDgttSM9TOg?&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
@@ -71,12 +77,6 @@
 </html>
 
 </div>
-
-##**Self-Discovery**
-<iframe width="640" height="390" src="https://www.youtube.com/embed/3qDcyEVvOwk?&rel=0&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
-
-##**Fake it until you awake it**
-<iframe width="640" height="390" src="https://www.youtube.com/embed/3y_99MFT9OY?&rel=0&modestbranding=1&fs=0" frameborder="0" allowfullscreen></iframe>
 
 ##Secret Life Of God by Rabbi David Aaron 
 ###Chapter 1
