@@ -47,5 +47,12 @@
 	"answers": ["Because the sun would reward him", "Because he would know he would have a great afterlife", "Becasue the sun would protect him", "Because he is living up to his true self"],
 	"correct": "Because he is living up to his true self"
 
+},
+{
+	"id": 8,
+	"type":"mc",
+	"text":"8. Why according to Doc does the Sun love us with the same love He loves himself?",
+	"answers": ["because we obey him", "because we believe in him", "because we obey him", "because we are a part of him"],
+	"correct": "because we are a part of him"
 }
 ]
