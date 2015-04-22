@@ -39,5 +39,27 @@
 	"text":"6. According to Doc how does the Sun become present on earth? The brilliance, warmth and vitality of the Sun is channeled into the world through...",
 	"answers": ["Worship", "Us; His rays", "Nature", "The Sun"],
 	"correct": "Us; His rays"
+},
+{
+	"id": 7,
+	"type":"mc",
+	"text":"7. Why would Ray be happier if he lived life in service of the Sun?",
+	"answers": ["Because the sun would reward him", "Because he would know he would have a great afterlife", "Becasue the sun would protect him", "Because he is living up to his true self"],
+	"correct": "Because he is living up to his true self"
+
+},
+{
+	"id": 8,
+	"type":"mc",
+	"text":"8. Why according to Doc does the Sun love us with the same love He loves himself?",
+	"answers": ["because we obey him", "because we believe in him", "because we obey him", "because we are a part of him"],
+	"correct": "because we are a part of him"
+},	
+{
+	"id": 9,
+	"type":"mc",
+	"text":"9. Doc tells Ray, “It’s only your beliefs and lifestyle that set you apart from Him in your mind.”  In other words, Docs point is...",
+	"answers": ["That you are punished for your beliefs", "Your beliefs and lifestyle anger the Sun", "Although he is connected, he will perceive and experience himself as disconnected", "Whether you believe or not determines whether you are connected or not"],
+	"correct": "Although he is connected, he will perceive and experience himself as disconnected"
 }
 ]
